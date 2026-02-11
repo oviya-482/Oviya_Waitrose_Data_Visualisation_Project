@@ -3,13 +3,15 @@ Data cleaning and comparative analysis of a bakery dataset using data visualizat
 
 **Bakery Price Analysis Project Report**
 Project Report: **Comparative Price Analysis of Waitrose Bakery Products**
-1.** Introduction**
+
+**1.Introduction**
 
 This project focuses on cleaning, processing, and analyzing a retail bakery dataset sourced from the Waitrose product files. The primary objective is to understand pricing patterns across product categories, with a special emphasis on Everyday Value vs Branded products. The project demonstrates the application of data cleaning techniques, exploratory data analysis (EDA), and comparative visualization to derive meaningful business insights.
 
 The analysis was carried out using Python, with libraries such as Pandas, NumPy, Lets-Plot (ggplot-style visualizations), and supporting utilities for formatting and inspection.
 
-2.** Data Description and Ingestion**
+**2. Data Description and Ingestion**
+   
 2.1 **Data Source**
 
 Multiple CSV files located in the ME204/data/waitrose directory.
